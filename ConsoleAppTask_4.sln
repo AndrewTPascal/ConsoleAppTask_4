@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33027.164
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTask_4.1.17", "ConsoleAppTask_4\ConsoleAppTask_4.1.17.csproj", "{4A97E919-53B9-43AB-BF82-1E3C6C5BD520}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppTask_4.1.17", "ConsoleAppTask_4\ConsoleAppTask_4.1.17.csproj", "{4A97E919-53B9-43AB-BF82-1E3C6C5BD520}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTask_4.1.18", "ConsoleAppTask_4.1.18\ConsoleAppTask_4.1.18.csproj", "{AE01A0BD-E16F-49AF-814D-B050524DC019}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppTask_4.1.18", "ConsoleAppTask_4.1.18\ConsoleAppTask_4.1.18.csproj", "{AE01A0BD-E16F-49AF-814D-B050524DC019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTask_4.5_Pract", "ConsoleAppTask_4.5_Pract\ConsoleAppTask_4.5_Pract.csproj", "{39ED2D71-F9D3-40B1-9292-CEFA111223C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AE01A0BD-E16F-49AF-814D-B050524DC019}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE01A0BD-E16F-49AF-814D-B050524DC019}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE01A0BD-E16F-49AF-814D-B050524DC019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39ED2D71-F9D3-40B1-9292-CEFA111223C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39ED2D71-F9D3-40B1-9292-CEFA111223C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39ED2D71-F9D3-40B1-9292-CEFA111223C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39ED2D71-F9D3-40B1-9292-CEFA111223C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
